@@ -1,0 +1,11 @@
+-sV                      Ver versiones de servicios
+-sS                      No completa el handshake TCP
+-sU                      Probar protocolos UDP
+-sO                      Ver versión sistema operativo
+-sC                      Scripts predeterminados
+-Pn                      Ignora que no responda a ping
+-n                       solo mostrar puertos abiertos
+-v -vv -vvv              Verbose (cuanta información suelta en la terminal)
+-A                       (All) hace de todo
+-T1 -T2 -T3 -T4 -T5      Velocidad
+--min-rate 5000          Mandar mínimo 5000 paquetes por segundo
