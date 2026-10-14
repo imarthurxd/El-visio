@@ -1,0 +1,6 @@
+msfconsole 
+search "version del servicio"
+use 0
+show options
+set ¨ip o puertos,etc¨ ¨valor¨
+exploit 
